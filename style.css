@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+@font-face{
+  font-family:'parastoo' ;
+  src: url('font/parastoo.eot');
+  src: url('font/parastoo.eot?#iefix') format('parastoo-opentype');
+  src: url('font/parastoo.woff') format('woff');
+  src: url('font/parastoo.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+    position: fixed;
+    direction: rtl;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: rgb(226,186,160);
+    font-size: medium;
+    font-family: 'parastoo';
+	color:#000000;
+}
+
+.txt {
+    direction: rtl;
+    margin: 1% 6% 0% 6%;
+    background: #f5f5f599;
+    padding: 0% 3% 3% 5%;
+}
+
+h1 {
+	text-align:center;
+    color: #000000;
+    padding: 2% 2% 2% 2%;
+    display: block;
+    max-width: 1600px;
+    width: 22%;
+    margin: 18px auto;
+}
