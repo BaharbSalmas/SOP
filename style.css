@@ -3,10 +3,10 @@
 }
 @font-face{
   font-family:'parastoo' ;
-  src: url('/font/parastoo.eot');
-  src: url('/font/parastoo.eot?#iefix') format('parastoo-opentype');
-  src: url('/font/parastoo.woff') format('woff');
-  src: url('/font/parastoo.ttf') format('truetype');
+  src: url('./font/parastoo.eot');
+  src: url('./font/parastoo.eot?#iefix') format('parastoo-opentype');
+  src: url('./font/parastoo.woff') format('woff');
+  src: url('./font/parastoo.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
