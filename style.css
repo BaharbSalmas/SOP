@@ -14,8 +14,6 @@
 body {
     direction: rtl;
     width: 100%;
-    margin: 0;
-    padding: 0;
     background: rgb(226,186,160);
     font-size: medium;
     font-family: 'parastoo';
