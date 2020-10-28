@@ -1,13 +1,9 @@
 *{
     box-sizing: border-box;
 }
-@font-face{
-  font-family:'parastoo' ;
-  src: url('/font/parastoo.eot');
-  src: url('/font/parastoo.woff'); 
-  src: url('/font/parastoo.ttf');
-  font-weight: normal;
-  font-style: normal;
+@font-face {
+    font-family: 'IRANSansWeb';
+    src: url('fonts/ttf/IRANSansWeb.ttf');
 }
 
 body {
